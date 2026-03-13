@@ -25,3 +25,4 @@ if _name_ == "_main_":
     print("Subtraction:", subtract(10, 5))
 
 printf("division")
+printf("feature2")
